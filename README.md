@@ -3,11 +3,11 @@
 ![Home Image](https://raw.githubusercontent.com/wiki/paypal/PayPal-PHP-SDK/images/homepage.jpg)
 
 
-**This repository contains samples in multiple languages for integrating PayPal payments into external services**.
+**This repo is for end-to-end samples of interesting integrations. Individual language SDKs have their own dedicated samples for each use case, so please see the [REST SDKs](https://developer.paypal.com/docs/api/rest-sdks/) for more comprehensive samples of individual APIs.**
 
 ## Samples Overview
 
-The following sample service integrations are available within this repository:
+This repository contains samples in multiple languages for integrating PayPal payments into external services. The following sample service integrations are available within this repository:
 
 | Sample Name       | SDK / Language Used | Description |
 | ----------------- | ------------------- | ----------- |
