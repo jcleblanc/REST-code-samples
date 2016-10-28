@@ -11,7 +11,7 @@ The following sample service integrations are available within this repository:
 
 | Sample Name       | SDK / Language Used | Description |
 | ----------------- | ------------------- | ----------- |
-| Slack Payment Bot | Node | Provides functionality for adding person to bot, person to person, and subscription payments to a Slack interactive message bot |
+| [Slack Payment Bot](slack-bot/) | Node | Provides functionality for adding person to bot, person to person, and subscription payments to a Slack interactive message bot |
 
 ## How to run these samples
 
